@@ -1,0 +1,29 @@
+{
+  "common": {
+    "donate": "Donate Now",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "back": "Back",
+    "next": "Next"
+  },
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "zakatCalc": "Zakat Calculator",
+    "account": "My Account",
+    "volunteer": "Volunteer",
+    "about": "About Us",
+    "contact": "Contact Us"
+  },
+  "home": {
+    "heroTitle": "Your charity... a life for others",
+    "heroDesc": "Help relieve the suffering of needy families in Egypt, and support our brothers in Gaza and Sudan."
+  },
+  "zakat": {
+    "title": "Zakat Calculator",
+    "cash": "Cash",
+    "gold": "Gold",
+    "silver": "Silver",
+    "crops": "Crops"
+  }
+}
